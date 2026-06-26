@@ -270,7 +270,7 @@ A integração das três ferramentas — seguindo a metodologia do **Cyber Kill 
 
 **Eduardo Souza Mattos**
 R.A. 35984 · Centro Universitário UniFECAF
-Disciplina: Cyber Security — Unidade III · 2026
+Disciplina: Cyber Security · 2026
 
 ---
 
